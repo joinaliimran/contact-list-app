@@ -1,0 +1,11 @@
+.errorNameGrid {
+  margin-top: 10px;
+}
+.errorName {
+  font-size: 18px;
+  font-weight: 400;
+}
+.errorMessage {
+  font-size: 15px;
+  font-weight: 400;
+}

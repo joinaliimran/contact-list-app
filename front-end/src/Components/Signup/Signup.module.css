@@ -1,0 +1,21 @@
+.paper {
+  padding: 20px;
+  width: 280px;
+  margin: 50px auto;
+}
+
+.avatar {
+  background-color: #00ccff;
+}
+
+.accountText {
+  font-size: 14px;
+  font-weight: 400;
+  color: gray;
+}
+
+.signinLink {
+  text-decoration: none;
+  color: #6e6b64;
+  padding-left: 8px;
+}

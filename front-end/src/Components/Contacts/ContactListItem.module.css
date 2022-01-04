@@ -1,0 +1,18 @@
+.list {
+  text-align: justify;
+  margin: auto;
+  width: 90%;
+}
+.phoneNumberHeading {
+  line-height: 2;
+  font-size: 0.9rem;
+  letter-spacing: 0.00938em;
+  font-weight: 600;
+  display: block;
+}
+.phoneNumber {
+  padding: 5px;
+  font-size: 0.9rem;
+  line-height: 0.8rem;
+  display: block;
+}
